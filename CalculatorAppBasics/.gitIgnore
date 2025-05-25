@@ -1,0 +1,21 @@
+# Build results
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.vs/
+*.user
+*.suo
+*.csproj.nuget.g.*
+*.nuget.props
+*.nuget.targets
+*.editorconfig
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.g.cs
+project.assets.json
+project.nuget.cache
+rider.*
+.idea/
